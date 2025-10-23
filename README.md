@@ -9,7 +9,7 @@ Welcome to my resume website, hosted on GitHub Pages. This repository contains m
 This site is a simple webpage hosting my resume in a viewable and downloadable PDF format. It’s built using GitHub Pages for easy sharing.
 
 ## Contact
-Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/alfredpbenjamin/).
+Feel free to reach out to me at [your.email@example.com](mailto:alfredpbenjamin@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/alfredpbenjamin/).
 
 ---
 
